@@ -1,0 +1,2 @@
+# Laboratorio06-Eda
+LABORATORIO 06  M-TREE
